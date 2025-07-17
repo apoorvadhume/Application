@@ -1,4 +1,2 @@
-# Application: Developer A story
-
-
+# Application: Developer B story
 
